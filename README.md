@@ -1,9 +1,9 @@
 ### Como parte de mi preparación técnica en automatización de pruebas, revisé y reforcé conceptos clave de JavaScript orientados a entrevistas para perfiles SDET.
-#### El contenido abarcó fundamentos del lenguaje como funciones (incluyendo funciones anónimas y callbacks), manejo de asincronía con promesas, y diferencias entre var, let y const. También profundicé en el uso de arrays y métodos como map, filter y reduce, así como en conceptos esenciales como comparación (== vs ===), null vs undefined y manipulación de objetos. Además, repasé principios de programación orientada a objetos en JavaScript, incluyendo herencia, uso de super y this. Este aprendizaje refuerza mi base para afrontar entrevistas técnicas y mejorar la calidad del código en proyectos de automatización.
+El contenido abarcó fundamentos del lenguaje como funciones (incluyendo funciones anónimas y callbacks), manejo de asincronía con promesas, y diferencias entre var, let y const. También profundicé en el uso de arrays y métodos como map, filter y reduce, así como en conceptos esenciales como comparación (== vs ===), null vs undefined y manipulación de objetos. Además, repasé principios de programación orientada a objetos en JavaScript, incluyendo herencia, uso de super y this. Este aprendizaje refuerza mi base para afrontar entrevistas técnicas y mejorar la calidad del código en proyectos de automatización.
 
-### Video: https://www.youtube.com/watch?v=DOpFpyLhZUo
+#### Video: https://www.youtube.com/watch?v=DOpFpyLhZUo
 
-### Top 25 Javascript Interview Questions for Test Automation SDET - Playwright & Cypress
+#### Top 25 Javascript Interview Questions for Test Automation SDET - Playwright & Cypress
 
 1 - Can a JavaScript object hold a function as a property? Explain with an example.
 2 - What are anonymous functions in JavaScript? Define their syntax and implementation.
